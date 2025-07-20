@@ -1,0 +1,25 @@
+i. Authors: Wayne Walker
+ii. Date Created: 7/14/2025
+iii. Course: ITT103
+iv. GitHub Public URL to Code:
+
+
+The purpose of the program:
+
+The purpose of this program is a POS system for a hospital. A major project that is to be done by me a student at UCC. My code implements a simple console-based Hospital Management System. It allows users to register patients, add doctors, book and manage appointments, and generate bills.
+
+
+
+How to run it:
+
+It can be run using the a python coronel, however I did make an exe version that can be run.
+ 
+
+Required modifications:
+
+There are currently no required modifications other than the name of the hospital and storage location for files created by the program.
+
+
+Any assumptions or limitations regarding its operation:
+
+Current limitation is editing already entered information. Unfortunately you would have to remove the already entered data the enter it correctly.
